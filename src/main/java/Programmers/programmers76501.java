@@ -1,3 +1,5 @@
+package Programmers;
+
 public class programmers76501 {
     public static void main(String[] args) {
         int[] tc1_absolutes = {4, 7, 12};
